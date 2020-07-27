@@ -1,0 +1,10 @@
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\bin\Debug\Assignment2.exe.config
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\bin\Debug\Assignment2.exe
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\bin\Debug\Assignment2.pdb
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\obj\Debug\GameSales.csprojAssemblyReference.cache
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\obj\Debug\Assignment2.GameSales.resources
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\obj\Debug\Assignment2.Properties.Resources.resources
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\obj\Debug\GameSales.csproj.GenerateResource.cache
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\obj\Debug\GameSales.csproj.CoreCompileInputs.cache
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\obj\Debug\Assignment2.exe
+Y:\Pessoal\Documentos\DevProjects\CSIS1175-C#\GameSales\obj\Debug\Assignment2.pdb
